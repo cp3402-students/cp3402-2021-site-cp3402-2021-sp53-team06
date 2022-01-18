@@ -1,0 +1,230 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+}
+
+p,a,span{
+	font-size: 14px;
+}
+
+p{
+	font-size: 21px;
+	line-height: 45px;
+	color: gray;
+}
+
+ul {
+	list-style-type: none;
+}
+
+img{
+	max-width: 100%;
+}
+
+body{
+	background-color: #ebeffa;
+}
+
+header{
+	margin: 20px auto;
+	max-width: 1400px;
+	text-align: center;
+}
+
+.menu{
+	margin: 0 auto;
+	text-align: center;
+}
+
+header h2{
+	font-size: 30px;
+	font-weight: 100;
+	padding-bottom: 20px;
+}
+
+.menu ul li{
+	display: inline-block;
+	text-align: center;
+	width: 100px;
+}
+
+.menu ul li a{
+	font-size: 24px;
+	color: black;
+}
+
+.clearfl{
+	clear: both;;
+}
+
+.content{
+	max-width: 1400px;
+	margin: 100px auto;
+}
+
+.content.index{
+	background: url(../myimg/bj.jpg) no-repeat;
+	height: 660px;
+	background-position: center;
+	background-size: 600px 580px;	
+}
+
+.indexleft{
+	width: 65%;
+	float: left;
+	font-size: 60px;
+}
+
+.indexright{
+	width: 35%;
+	float: left;
+}
+
+.indexright p{
+	font-size: 30px;
+	line-height: 50px;
+	color: black;
+}
+
+.main{
+	margin: 0 auto;
+	padding: 100px;
+	text-align: center;
+	background: url(../myimg/bj1.jpg) no-repeat;
+	background-size: 100%;
+}
+
+.maincontent{
+	max-width: 950px;
+	margin: 0 auto;
+}
+
+.maincontent h2{
+	font-size: 90px;
+	font-weight: 100;
+}
+
+.maincontent h4{
+	font-size: 30px;
+	font-weight: 100;
+}
+
+.maincontent h3{
+	font-size: 40px;
+	font-weight: 100;
+}
+
+.maincontent p{
+	font-size: 30px;
+	font-weight: 100;
+	color: dimgray;
+}
+
+.more{
+	margin: 20px auto;
+}
+
+.more a{
+	background-color: black;
+	padding: 10px 20px;
+	color: white;
+	font-size: 21px;
+}
+
+.content.cake{
+	margin-top: 30px;
+	max-width: 1200px;
+}
+
+.cakelist{
+	width: 31.33333%;
+	float: left;
+	padding: 1%;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.content.cake h1{
+	text-align: center;
+	font-size: 150px;
+	font-weight: 100;
+	padding-bottom: 30px;
+}
+
+.cakelist span{
+	color: red;
+	font-size: 24px;
+	font-weight: 600;
+	line-height: 80px;
+}
+
+.cakelist p{
+	font-size: 36px;
+}
+
+.cakelist img{
+	width: 100%;
+}
+
+
+
+
+.content.about{
+	margin-top: 40px;
+}
+
+.content.about h1{
+	font-size: 100px;
+	font-weight: 100;
+}
+
+.abouttop{
+	margin: 60px auto;
+}
+
+.topleft{
+	width: 30%;
+	float: left;
+	margin-right: 5%;
+	color: gray;
+}
+
+.topleft p{
+	font-size: 27px;
+	line-height: 45px;	
+}
+
+.topleft.third{
+	margin-right: 0px;
+}
+
+.topleft.third img{
+	width: 100%;
+}
+
+.aboutlist{
+	width: 30%;
+	padding: 1.666666%;
+	float: left;
+}
+
+p.thered{
+	color: red;
+	font-size: 21px;
+	padding-top: 30px;
+}
+
+p.thetitle{
+	font-size: 50px;
+	line-height: 100px;
+	color: black;
+}
+
+.contact{
+	margin-top: 100px;
+}
+
