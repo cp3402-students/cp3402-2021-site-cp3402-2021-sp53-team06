@@ -1,3 +1,5 @@
 if you setup your site using pages and want to organize your content with categories, then using this plugin will help. First install the 'post tags and categories for pages plugin', we need it to see the categories for our WordPress pages, then activate it. After that, you need to go to pages -> add new, and now you can see categories and tags are available for the pages, It will appear in the right border of 'Add New Page'。
 
 If you mark an 'About' Page in 'Add New Page', you can use this plugin to categorize your posts,you can add your page to the category as well and it will show on the category archive along with all the music posts.
+
+On the other hand, if you want to add new content, just click add new in the pages, and a new window will appear to display the title, name and describe content you want to write. For example, you can write 'about me' on the title name, and then write down what you want to write, what you want to do, who you are, etc. in the price list. You can also find the function of adding pictures in the toolbar.
